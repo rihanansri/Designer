@@ -309,9 +309,7 @@ footer {
 }
 
 @media only screen and (max-width:480px) {
-    body {
-        border: 2px solid red;
-    }
+   
 
    
     .sidebaar {
